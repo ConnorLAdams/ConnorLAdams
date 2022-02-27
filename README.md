@@ -1,7 +1,7 @@
 
 [//]: <> (Introducing myself)
 # Hi! My name is Connor Adams!
-___
+
 [//]: <> (Quick bio summary)
 Welcome to my GitHub! I am 23 years old, and I am as boring as I am interesting. My goal for 2022 is to upload more projects to GitHub and improve upon my skills with data science. Follow me to see what I am currently working on, and hopefully we can work together on some projects. 
 
@@ -9,7 +9,7 @@ Welcome to my GitHub! I am 23 years old, and I am as boring as I am interesting.
 
 [//]: <> (Brief desciption of myself)
 ## I am a Student, Instructor, and Superhero!
-___
+
 - Currently pursuing a MS in Applied Mathematics.
 - Living my dream as an instructor at Cal Poly Pomona.
 - New medium term goal is to become a talented data scientist.
@@ -24,7 +24,7 @@ ___
 
 
 ## Projects
-___
+
 - Effects Of Global Warming On Alaskan Brown Bears
 - Minimum Distance Between Two Orbits
 - Solutions Of A System With A Tridiagonal Matrix
@@ -32,7 +32,7 @@ ___
 - Logistic Equations With Delay
 
 ## Languages
-___
+
 Python, R, Matlab, Latex
 
 
