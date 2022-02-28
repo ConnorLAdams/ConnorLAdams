@@ -20,7 +20,8 @@ Welcome to my GitHub! I am 23 years old, and I am as boring as I am interesting.
 ### Connect with me:
 [<img src="fa-instagram.svg" width="22">][instagram] &nbsp;
 [<img src="fa-linkedin.svg" width="22">][linkedin] &nbsp;
-[<img src="fa-snapchat.svg" width="22">][snapchat] <br>
+[<img src="fa-snapchat.svg" width="22">][snapchat] &nbsp;
+[<img src="fa-user.svg" width="22">][website]
 
 ## Projects
 - Effects Of Global Warming On Alaskan Brown Bears
@@ -41,3 +42,5 @@ Python, R, Matlab, Latex
 [snapchat]: https://www.snapchat.com/add/cafferysmit?share_id=dxapTlfqlDg&locale=en-US
 
 [linkedin]: https://www.linkedin.com/in/connor-adams-4a5449170/
+
+[website]: https://www.connoradams.net
