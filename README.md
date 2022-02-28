@@ -18,13 +18,11 @@ Welcome to my GitHub! I am 23 years old, and I am as boring as I am interesting.
 - Possibly a future PhD student for machine learning.
 
 ### Connect with me:
-[<img src="fa-instagram.svg" width="22">][instagram]
-[<img src="fa-linkedin.svg" width="22">][linkedin]
-[<img src="fa-snapchat.svg" width="22">][snapchat]
-
+[<img src="fa-instagram.svg" width="22">][instagram] &nbsp;
+[<img src="fa-linkedin.svg" width="22">][linkedin] &nbsp;
+[<img src="fa-snapchat.svg" width="22">][snapchat] <br>
 
 ## Projects
-
 - Effects Of Global Warming On Alaskan Brown Bears
 - Minimum Distance Between Two Orbits
 - Solutions Of A System With A Tridiagonal Matrix
