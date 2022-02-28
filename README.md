@@ -3,19 +3,19 @@
 # Hi! My name is Connor Adams!
 
 [//]: <> (Quick bio summary)
-Welcome to my GitHub! I am 23 years old, and I am as boring as I am interesting. My goal for 2022 is to upload more projects to GitHub and improve upon my skills with data science. Follow me to see what I am currently working on, and hopefully we can work together on some projects. 
+Welcome to my GitHub! I am 23 years old, and exploring different programming/markup languages. My goal for 2022 is to upload more projects to GitHub and improve upon my skills in data science. Follow me to see what I am currently working on, and hopefully we can work together on some projects. 
 
 [//]: <> (I have no fucking clue what I am doing.)
 
 [//]: <> (Brief desciption of myself)
-## I am a Student, Instructor, and Superhero!
+## I am a Student, Instructor, and Mathematician!
 
 - Currently pursuing a MS in Applied Mathematics.
 - Living my dream as an instructor at Cal Poly Pomona.
-- New medium term goal is to become a talented data scientist.
-- Favorite animal: Red pandas!!
-- Fun fact: I am part superhero.
-- Possibly a future PhD student for machine learning.
+- New short term goal is to become a talented data scientist.
+- Favorite Animal: Red Panda!!
+- Fun Fact: I have 7 cats (a.k.a. too many)!
+- Possibly a future PhD student in machine learning.
 
 ### Connect with me:
 [<img src="fa-instagram.svg" width="22">][instagram] &nbsp;
