@@ -11,10 +11,9 @@ Welcome to my GitHub! I am 23 years old, and exploring different programming/mar
 ## I am a Student, Instructor, and Mathematician!
 
 - Currently pursuing a MS in Applied Mathematics.
-- Living my dream as an instructor at Cal Poly Pomona.
-- New short term goal is to become a talented data scientist.
-- Favorite Animal: Red Panda!!
-- Fun Fact: I have 7 cats (a.k.a. too many)!
+- Enjoying the life of an instructor at Cal Poly Pomona.
+- New short term goal is to build a staircase that turns into a slide.
+- Favorite Animal: Red Pandas!!
 - Possibly a future PhD student in machine learning.
 
 ### Connect with me:
@@ -29,6 +28,9 @@ Welcome to my GitHub! I am 23 years old, and exploring different programming/mar
 - Solutions Of A System With A Tridiagonal Matrix
 - Coupled System Oscillators
 - Logistic Equations With Delay
+- Masks Mandate
+- Taiwan Properties
+- Survivors of The Titanic
 
 ## Languages
 
