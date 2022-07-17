@@ -34,7 +34,7 @@ Welcome to my GitHub! I am 23 years old, and exploring different programming/mar
 
 ## Languages
 
-Python, R, Matlab, Latex
+Python, R, Matlab, Java, HTML, CSS, Latex
 
 
 
