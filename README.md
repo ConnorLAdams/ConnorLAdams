@@ -3,7 +3,7 @@
 # Hi! My name is Connor Adams!
 
 [//]: <> (Quick bio summary)
-Welcome to my GitHub! I am 23 years old, and exploring different programming/markup languages. My goal for 2022 is to upload more projects to GitHub and improve upon my skills in data science. Follow me to see what I am currently working on, and hopefully we can work together on some projects. 
+Welcome to my GitHub! I am 24 years old, and exploring different programming/markup languages. My goal for 2022 is to upload more projects to GitHub and improve upon my skills in data science. Follow me to see what I am currently working on, and hopefully we can work together on some projects. 
 
 [//]: <> (I have no fucking clue what I am doing.)
 
