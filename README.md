@@ -14,14 +14,14 @@ Welcome to my GitHub! I recently graduated with a Master of Science in Applied M
 [<img src="fa-user.svg" width="22">][website]
 
 ## Projects
-- ALASKAN BROWN BEARS AND PACIFIC SALMON FACE THE EFFECTS OF GLOBAL WARMING
-- Minimum Distance Between Two Orbits
-- Solutions Of A System With A Tridiagonal Matrix
-- Coupled System Oscillators
-- Logistic Equations With Delay
-- Masks Mandate
-- Taiwan Properties
-- Survivors of The Titanic
+- [ALASKAN BROWN BEARS AND PACIFIC SALMON FACE THE EFFECTS OF GLOBAL WARMING][thesis]
+- [Minimum Distance Between Two Orbits][orbits]
+- [Solutions Of A System With A Tridiagonal Matrix][tridiagonal]
+- [Coupled System Oscillators][oscillators]
+- [Logistic Equations With Delay][delay]
+- [Masks Mandate][mask]
+- [Taiwan Properties][taiwan]
+- [Survivors of The Titanic][titanic]
 
 ## Languages
 
@@ -37,3 +37,13 @@ Python, R, Matlab, Java, HTML, CSS, Latex
 [linkedin]: https://www.linkedin.com/in/connor-adams-4a5449170/
 
 [website]: https://www.connoradams.net
+
+[//]: <> (Links to projects)
+[thesis]: https://github.com/Cleeadams/Alaskan-Brown-Bears
+[taiwan]: https://github.com/Cleeadams/Taiwan-Properties
+[titanic]: https://github.com/Cleeadams/Titanic-Survival
+[mask]: https://github.com/Cleeadams/Masks-Required
+[orbits]: https://github.com/Cleeadams/Optimizing-Jump-Between-Orbits
+[tridiagonal]: https://github.com/Cleeadams/System-of-a-Tridiagonal-Matrix
+[oscillators]: https://github.com/Cleeadams/Coupled-System-Oscillators
+[delay]: https://github.com/Cleeadams/Logistic-Equations
