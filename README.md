@@ -23,7 +23,7 @@ Welcome to my GitHub! I recently graduated with a Master of Science in Applied M
 [<img src="fa-user.svg" width="22">][website]
 
 ## Projects
-- Effects Of Global Warming On Alaskan Brown Bears
+- ALASKAN BROWN BEARS AND PACIFIC SALMON FACE THE EFFECTS OF GLOBAL WARMING
 - Minimum Distance Between Two Orbits
 - Solutions Of A System With A Tridiagonal Matrix
 - Coupled System Oscillators
