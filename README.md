@@ -10,7 +10,6 @@ Welcome to my GitHub! I recently graduated with a Master of Science in Applied M
 ### Connect with me:
 [<img src="fa-instagram.svg" width="22">][instagram] &nbsp;
 [<img src="fa-linkedin.svg" width="22">][linkedin] &nbsp;
-[<img src="fa-snapchat.svg" width="22">][snapchat] &nbsp;
 [<img src="fa-user.svg" width="22">][website]
 
 ## Projects
@@ -25,18 +24,16 @@ Welcome to my GitHub! I recently graduated with a Master of Science in Applied M
 
 ## Languages
 
-Python, R, Matlab, Java, HTML, CSS, Latex
+Python, Rust, R, Matlab, Java, SQL, HTML, CSS, Latex
 
 
 
 [//]: <> (Links to social media and website in the future!)
 [instagram]: https://instagram.com/cleeadams
 
-[snapchat]: https://www.snapchat.com/add/cafferysmit?share_id=dxapTlfqlDg&locale=en-US
-
 [linkedin]: https://www.linkedin.com/in/connor-adams-4a5449170/
 
-[website]: https://www.connoradams.net
+[website]: https://www.connoradams.io
 
 [//]: <> (Links to projects)
 [thesis]: https://github.com/Cleeadams/Alaskan-Brown-Bears
