@@ -24,7 +24,7 @@ Welcome to my GitHub! I recently graduated with a Master of Science in Applied M
 
 ## Languages
 
-Python, Rust, R, Matlab, Java, SQL, HTML, CSS, Latex
+Python, Rust, GO, React, Vue, R, Matlab, Java, SQL, HTML, CSS, Latex
 
 
 
